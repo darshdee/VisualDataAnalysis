@@ -1,7 +1,7 @@
 # Visual Data Analysis
 
 ## Overview
-In this project, I focus on employing the use of visual analysis as the primary tool for exploring restaurant dataset and assessing a few hypotheses regarding the food industry
+In this project, I focus on employing the use of visual analysis as the primary tool for exploring a dataset on restaurants in India and assessing a few hypotheses regarding food industry trends
 
 ## Goals
 
